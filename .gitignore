@@ -1,3 +1,4 @@
 .idea
 rb.php
-.htaccess
+.env
+vendor
